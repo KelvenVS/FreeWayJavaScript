@@ -8,4 +8,6 @@
 
 <p>Projeto em JavaScript para entender o debug,condicionais e lógica de programação<p>
 
-<p>Com o intuito de testar os conhecimentos adquiridos no curso e integração em <strong>JavaScript</strong>
+<p>Com o intuito de testar os conhecimentos adquiridos no curso e integração em <strong>JavaScript</strong></p>
+
+<p>Para jogar use as setas <strong>Up</strong> e <strong>Down</strong> do teclado</p>
