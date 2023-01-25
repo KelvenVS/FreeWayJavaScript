@@ -45,6 +45,7 @@ function checkColision(){
       console.log("Hit!!!!!");
       hitSound.play();
       hitSound.setVolume(0.03);
+      if(points > 0 ) points -=1;
       resetPlayerHit();
     }
   }
