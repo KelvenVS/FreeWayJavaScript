@@ -3,7 +3,7 @@
 let xPlayer = 150;
 let yPlayer = 380;
 //let hit = false;
-let points = 30;
+let points = 0;
 
 function viewPlayer(){
   image(player,xPlayer,yPlayer,25,25);
